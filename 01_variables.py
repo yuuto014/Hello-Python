@@ -27,10 +27,12 @@ print(len(my_string_variable)) #18
 
 #Ingreso por pantalla
 
+'''
 name = input("What is your name?")
 age = input("How old are you?")
 print(name)
 print(age)
+'''
 
 #Cambiamos tipo de datos
 name = 26
@@ -38,7 +40,8 @@ age = "juan"
 print(name)
 print(age)
 
-#Forzamos el tipo
+#Forzamos el tipo?
 adress : str = "Esta es mi direccion"
 adress = 32
 print(type(adress))
+
